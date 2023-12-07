@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "ramdom-dados-jogo",
+    "slug": "ramdom-dados-jogo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
